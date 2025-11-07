@@ -10,7 +10,7 @@ The diagrams below represent the conceptual architecture of both paths and how d
 ---
 ## Why do we want to do this?
 
-This Amplitude is what The Information Lab website runs through. Looking at the data from this website can be extremely beneficial for sales and further knowledge about the company.
+Amplitude is what The Information Lab website runs through. Looking at the data from this website can be extremely beneficial for sales and further knowledge about the company.
 
 We are able to see information about who visits the website and what blogs or events they look at. To help see what areas are of most interest to site visitors.
 
